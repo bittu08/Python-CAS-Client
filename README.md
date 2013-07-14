@@ -4,7 +4,7 @@ It includes a middleware that intercepts the call on '/login' and '/logout' uri 
 ###Configuration
 In 'settings.py' , add CAS server url in CAS_SERVER_URL:
 
-CAS_SERVER_URL = "<Add you CAS server url>" #Example- https://www.localcas.com/cas
+CAS_SERVER_URL = "Add you CAS server url Example- https://www.localcas.com/cas"
 ###Installation 
 Clone this repository and integrate the code with your python django-application.
 
